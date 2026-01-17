@@ -1,0 +1,39 @@
+.contact {
+    max-width: 1536px;
+    background: #efe8dd;
+    height: 100%;
+}
+
+.title {
+    margin: 0 auto;
+}
+
+.title-h {
+    text-align: center;
+    font-weight: lighter;
+}
+
+.form {
+    background: white;
+    width: 60%;
+}
+
+.form__group {
+    text-align: center;
+}
+
+.form__error {
+    color: red;
+}
+
+.form__button {
+    text-align: center;
+}
+
+.form__button-submit {
+    background: #968b79;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.content {
+    max-width: 1536px;
+}
+
+.title {
+    margin: 0 auto;
+}
+
+.title-h {
+    text-align: center;
+    font-weight: lighter;
+}

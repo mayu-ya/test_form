@@ -1,0 +1,38 @@
+.content {
+    max-width: 1536px;
+}
+
+.title {
+    margin: 0 auto;
+}
+
+.title-h {
+    text-align: center;
+    font-weight: lighter;
+}
+
+.form {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.form__group {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.form__required {
+    color: red;
+}
+
+.form__input {
+    display: flex;
+}
+
+.form__error {
+    color: red;
+    text-align: left;
+}

@@ -1,0 +1,51 @@
+.contact {
+    max-width: 1536px;
+    background: #efe8dd;
+    height: 100%;
+}
+
+.title {
+    margin: 0 auto;
+}
+
+.title-h {
+    text-align: center;
+    font-weight: lighter;
+}
+
+.form {
+    background: white;
+    width: 60%;
+}
+
+.form__group {
+    text-align: center;
+}
+
+.form__goup-title-span {
+    margin-top: 30px;
+    text-align: left;
+}
+
+.form__group-unput-item {
+    width: 50%;
+    padding: 5px 10px;
+}
+
+.form__error {
+    color: red;
+    text-align: left;
+}
+
+.form__button {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.form__button-submit {
+    background: #968b79;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}

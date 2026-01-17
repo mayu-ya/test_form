@@ -1,0 +1,133 @@
+.content {
+    max-width: 1536px;
+}
+
+.title {
+    margin: 0 auto;
+}
+
+.title-h {
+    text-align: center;
+    font-weight: lighter;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.form__search {
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+
+.form__search-name {
+    width: 350px;
+    height: 40px;
+}
+
+.form__search-gender {
+    width: 100px;
+    height: 40px;
+}
+
+.form__search-content {
+    width: 150px;
+    height: 40px;
+}
+
+.form__search-date {
+    width: 100px;
+    height: 40px;
+}
+
+.form__search-item {
+    padding: 5px 20px;
+}
+
+.search__button-submit {
+    width: 80px;
+    height: 40px;
+    background: #968b79;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
+
+.reset__button-submit {
+    background: red;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
+
+.export {
+    display: flex;
+    justify-content: left;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.form__export-button {
+    background: #ddd;
+    border: none;
+}
+
+.table-content {
+    display: flex;
+    width: 70%;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.table {
+    border: 1px solid #968b79;
+    margin: 20px 0;
+}
+
+.table-row {
+    border-bottom: 1px solid #968b79;
+}
+
+.table-title {
+    background: #968b79;
+}
+
+.table-span {
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+
+.table__item {
+    width: 100%;
+}
+
+.form {
+    display: flex;
+}
+
+.form__item {
+    display: flex;
+}
+
+.form__item-input {
+    padding: 5px 20px;
+    outline: none;
+    border: none;
+}
+
+.form__button-detail {
+    background: white;
+    color: #968b79;
+    border: #968b79;
+    border-radius: 3px;
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.content {
+    max-width: 1536px;
+}
+
+.content-back {
+    color: #dbccc5;
+    font-size: 70%;
+}
+
+.content-thanks {
+    color: #968b79;
+}
+
+.form__button-submit {
+    background: #968b79;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,51 @@
+.content {
+    max-width: 1536px;
+}
+
+.title {
+    margin: 0 auto;
+}
+
+.title-h {
+    text-align: center;
+    font-weight: lighter;
+}
+
+.form {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.table-title {
+    color: white;
+    background: #cfbaaf;
+    width: 40%;
+}
+
+.table-content__input {
+    padding: 10px;
+    text-align: left;
+}
+
+.form__button-submit {
+    padding: 10px 20px;
+    background: #968b79;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.form__button-correct {
+    padding: 10px 20px;
+    background: white;
+    color: #968b79;
+    border-color: #968b79;
+    cursor: pointer;
+}
