@@ -1,0 +1,63 @@
+.content {
+    max-width: 1536px;
+}
+
+.title {
+    margin: 0 auto;
+}
+
+.title-h {
+    text-align: center;
+    font-weight: lighter;
+}
+
+.form {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.table-title {
+    color: white;
+    background: #cfbaaf;
+    width: 40%;
+    height: 60px;
+}
+
+.table-content {
+    text-align: left;
+    height: 60px;
+}
+
+.table-content__input {
+    margin-left: 20px;
+    padding: 10px;
+    outline: none;
+    border: none;
+}
+
+.form__button-submit {
+    padding: 5px 20px;
+    margin-right: 30px;
+    background: #968b79;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.form__button-correct {
+    padding: 5px 20px;
+    background: white;
+    border-color: #968b79;  
+}
+
+.form__button-correct-submit {
+    color: #968b79;
+    cursor: pointer;
+}
