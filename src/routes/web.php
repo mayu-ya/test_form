@@ -20,10 +20,10 @@ Route::get('/', [ContactController::class, 'index']);
 Route::post('/confirm', [ContactController::class, 'confirm']);
 Route::post('/', [ContactController::class, 'back']);
 Route::post('/thanks', [ContactController::class, 'store']);
-Route::get('/search', [ContactController::class, 'search']);
 
 Route::get('/', [CategoryController::class, 'index']);
 
 Route::middleware('auth')->group(function () {
     Route::get('/admin', [AuthController::class, 'index']);
 });
+Route::get('/search', [AuthController::class, 'search']);
