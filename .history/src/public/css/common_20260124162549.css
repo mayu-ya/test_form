@@ -1,0 +1,23 @@
+.header{
+    border-bottom: 1px solid #000;
+}
+
+.header__item {
+    display: flex;
+}
+
+.header-title__item nav {
+    justify-content: right;
+}
+
+.header-title {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 1230px;
+}
+
+.header-title__item {
+    position: absolute;
+    font-size: 24px;
+    text-align: center;
+}
